@@ -1,0 +1,8 @@
+{
+  "name": "image-gallery",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:rhaisa/image-gallery.git",
+  "author": "Rhaisa Alves <rhaisalouiseadm@gmail.com>",
+  "license": "MIT"
+}
